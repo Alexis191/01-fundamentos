@@ -18,11 +18,11 @@
 const sumar = (a, b) => a + b;
 
 //Ejercicio
-/*const saludar  = (nombre) =>{
+const saludar  = (nombre) =>{
     return  `hola ${nombre}`
     //que salude al nombre que reciba
-}*/
+}
 
 /*console.log (saludar("Alexis"))*/
-const saludar = (nombre) => `hola ${nombre}`;
-console.log (saludar("Alexis"))
+/*const saludar = (nombre) => `Hola ${nombre}`;
+console.log (saludar("Alexis"))*/
